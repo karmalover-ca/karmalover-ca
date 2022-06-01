@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HeroicsMC](https://discord.gg/BBExwcZ4Mb)
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Spigot, Discord JDA**
 
