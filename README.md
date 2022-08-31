@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A passionate backend developer from Canada</h3>
 
-- 🔭 I’m currently working on [HeroicsMC](https://discord.gg/BBExwcZ4Mb)
+- 🔭 I’m currently working on [CatGirls](https://github.com/KarmaLover5704/catgirls)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Spigot, Discord JDA**
 
