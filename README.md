@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A passionate backend developer from Canada</h3>
 
-- 🔭 I’m currently working on [CatGirls](https://github.com/KarmaLover5704/catgirls)
+- 🔭 I’m currently working on [MyWebPage](https://karmalover.ca)
 
 - 🌱 I’m currently learning **TypeScript**
 
