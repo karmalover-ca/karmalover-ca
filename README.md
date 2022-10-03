@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A passionate backend developer from Canada</h3>
 
-- 🔭 I’m currently working on [MyWebPage](https://karmalover.ca)
+- 🔭 I’m currently working on [Chuck](https:github.com/sharpdev-me/moderation-bot)
 
 - 🌱 I’m currently learning **TypeScript**
-
-- 💬 Ask me about **Spigot, Discord JDA**
 
 - 📫 How to reach me **liam@karmalover.ca**
 
