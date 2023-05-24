@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A passionate backend developer from Canada</h3>
 
-- 🔭 I’m currently working on [Chuck](https://github.com/sharpdev-me/moderator-bot)
+- 🔭 I’m currently working on [LER-2023](https://github.com/lakeeffectrobotics/ler-2023)
 
 - 🌱 I’m currently learning **TypeScript**
 
