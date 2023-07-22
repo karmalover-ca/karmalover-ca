@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate backend developer from Canada</h3>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karmalover-ca&show_icons=true&locale=en&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true" alt="karmalover-ca" /></p>
 
