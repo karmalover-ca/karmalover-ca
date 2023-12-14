@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Rydhar](https://discord.gg/HYNzgsz8P7)
 
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Nodejs, Typescript, Java**
 
