@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karmalover-ca&show_icons=true&locale=en&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true" alt="karmalover-ca" /></p>
 
-- 🔭 I’m currently working on [Rydhar](https://discord.gg/HYNzgsz8P7)
+- 🔭 I’m currently working on [My Website](https://github.com/karmalover-ca/website)
 
 - 🌱 I’m currently learning **React**
 
